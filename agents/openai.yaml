@@ -1,4 +1,4 @@
 interface:
   display_name: "说人话"
-  short_description: "将中文技术文本改写为标准、直接、中性且可核验的表述"
-  default_prompt: "使用 $write-plain-chinese 改写这段中文技术文本，保持事实和不确定性不变。"
+  short_description: "中文交流与中文输出时使用：直接说明实际情况，精简防御性表达，保持术语准确、事实完整"
+  default_prompt: "使用 $write-plain-chinese 完成当前任务的中文输出，直接说明实际情况，精简防御性表达，保留事实、范围和不确定性。"
